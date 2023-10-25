@@ -12,6 +12,6 @@ const levinbaenninger = {
   company: "Bühler AG",
   role: "Apprentice"
  },
- hobbies: [Judo, Fitness, Reading]
+ hobbies: [Judo, Fitness, Reading, Horse]
 }
 ```

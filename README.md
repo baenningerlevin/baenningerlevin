@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Levin Bänninger 👋
 
-<!--
-**baenningerlevin/baenningerlevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Software Enginner in training at [Bühler AG](https://buhlergroup.com)_
 
-Here are some ideas to get you started:
+[![Linkedin: Levin Bänninger](https://img.shields.io/badge/-Levin%20Bänninger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levinbaenninger/)](https://www.linkedin.com/in/levinbaenninger/)
+              
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```JavaScript
+const levinbaenninger = {
+  code: ['HTML', 'CSS', 'JavaScript', 'SCSS', 'TypeScript', 'Angular'],
+  workplace: {
+    company: 'Bühler AG',
+    role: 'Apprentice'
+  },
+  hobbies: ['Judo', 'Gym', 'Reading'],
+  experienceInYears: {
+    frontend: 2,
+    backend: 1
+  }
+}
+```
